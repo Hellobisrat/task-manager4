@@ -9,4 +9,8 @@ In order to run the project, setup .env and set MONGO_URI variable equal to DB c
 
 In order to avoid port collisions, in the source code port value is 5000
 
+# middleware
+three custom middleware added async thant handle
+try cache , not-found and custom error handler
+
 @ Bisrat Feb-17 2024
